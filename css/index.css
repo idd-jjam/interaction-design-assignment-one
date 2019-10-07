@@ -1,2 +1,27 @@
 body {
+    font-family: Helvetica;
+}
+header{
+    background-color:#0065a4;
+
+}
+.logo{
+    float: right;
+}
+.hm{
+    width: 35px;
+    height: 5px;
+    background-color:white;
+    margin: 6px 0;
+    text-align: center;
+  }
+.menu{
+    color: white;
+    height: 75px;
+    font-size: 45px;
+    font-weight: 100;
+}
+.search{
+    color: white;
+    height: 75px;
 }
