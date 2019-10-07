@@ -3,25 +3,31 @@ body {
 }
 header{
     background-color:#0065a4;
-
+    display: grid;
+    grid-template-columns: 93.75px 93.75px 93.75px 93.75px;}
+.ham{
+    height:30px;
+    padding: 10px;
 }
 .logo{
-    float: right;
+    height: 50px;
+    grid-row:1/3;
 }
-.hm{
-    width: 35px;
-    height: 5px;
-    background-color:white;
-    margin: 6px 0;
-    text-align: center;
-  }
 .menu{
-    color: white;
-    height: 75px;
-    font-size: 45px;
+    color: white; 
     font-weight: 100;
+    font-size: 30px;
+    text-align: left;
 }
 .search{
     color: white;
-    height: 75px;
+}
+.line{
+    border: 100px #0065a4;
+}
+h2{
+    background-color: #0065a4;
+    color: white;
+    text-align: center;
+    padding: 10px;
 }
