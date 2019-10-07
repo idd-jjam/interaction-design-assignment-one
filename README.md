@@ -1,2 +1,2 @@
 # Interaction Design: Course Website 
-![Justine's Planning Process](planningprocess_01.JPG)
+![Justine's Planning Process](planning/planningprocess_01.JPG)
